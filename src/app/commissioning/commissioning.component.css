@@ -1,0 +1,81 @@
+
+h5, p, h2{
+font-family: MyWebfont, Verdana, sans-serif;
+text-rendering: optimizeLegibility;
+color: #005f6a;
+}
+
+#pictureOne{
+width: 20%;
+height: 20%;
+}
+
+#pictureTwo{
+margin-left: 82%;
+margin-top: -5%;
+}
+
+#aufträge{
+	width: 90%;
+	margin-top: -10%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#auftrag1{
+  width: 30%;
+	height: 65%;
+  font-size: 28px;
+	margin-right: 3%;
+  margin-left: 1.5%;
+}
+
+#auftrag2{
+	width: 30%;
+	height: 65%;
+    font-size: 28px;
+	margin-right: 3%;
+
+}
+
+#auftrag3{
+    width: 30%;
+    height: 65%;
+    font-size: 28px;
+}
+
+
+h5{
+	width: 95%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 2%;
+	margin-bottom: 60%;
+  padding-top: 50%;
+  font-weight: lighter;
+
+}
+
+h2{
+margin-left: 32%;
+margin-top: -17%;
+  font-weight: lighter;
+}
+
+button:hover{
+  border-radius: 2%;
+  background-color: rgba(224,255,255, 0.2);
+  border-style: solid;
+
+}
+
+button{
+  background-color: rgba(224,255,255, 0.5);
+  border: solid;
+  border-color: #005f6a;
+}
+
+
+
+
+
